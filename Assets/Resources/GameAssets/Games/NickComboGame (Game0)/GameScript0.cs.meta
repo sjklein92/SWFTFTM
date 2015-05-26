@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0db075f95488a8447bf481ff7f7bfff5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - up: {instanceID: 0}
+  - down: {instanceID: 0}
+  - left: {instanceID: 0}
+  - right: {instanceID: 0}
+  - punch: {instanceID: 0}
+  - initBackground: {instanceID: 0}
+  - winBackground: {instanceID: 0}
+  - gameSong: {instanceID: 0}
+  - punchSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
